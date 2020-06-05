@@ -1,0 +1,277 @@
+*{margin: 0;padding: 0; outline: none;}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;0,900;1,300;1,700&display=swap');
+header
+{
+	width: 	100%;
+	height: 100vh;
+	background: url("img/20.jpg") no-repeat;
+	background-size:cover;
+	text-decoration-style: none;
+}
+body
+{
+	font-family: 'Roboto', sans-serif;
+}
+nav
+{
+	width: 	100%;
+	height: 130px;
+	margin: auto;
+	background: black;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+#box1
+{
+	width: 80%;
+	height: 135px;
+	margin-left: 10%;
+}
+#box1 span
+{
+	color: #D22C2C;
+}
+nav h1
+{
+	padding-top:40px;
+	float: 	left;
+	font-size: 40px;
+	color: #dcdcdc;	 		
+}
+menu
+{
+	float: 	right;
+}
+menu ul li
+{
+	display: inline-block;
+	font-size: 20px;
+	padding-right: 55px;
+	padding-top: 55px;
+	color: #dcdcdc;
+	font-weight: 700;	
+}
+.active
+{
+	color: #D22C2C
+}
+menu ul li:hover
+{
+	color: #D22C2C;
+	transition: 0.5s;
+}
+#loca
+{
+	padding-right: 0px;
+}
+#box2
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 72px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: white;
+	text-align: center;
+	padding-top: 300px;
+	text-shadow: 2px 2px 2px black;
+}
+#box3
+{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	line-height: 35px;
+	margin-top: 80px;
+	text-shadow: 2px 2px 2px black; 
+}
+img
+{
+	width: 100%;
+}
+.blog1
+{
+	width: 80%;
+	height: 1000px;
+	margin-left: 10%;
+	/*background: red;*/
+	margin-top: 100px;  
+}
+
+.blog1 p
+{
+	font-size: 30px;
+	color: #808080;
+	font-weight: 700;
+	margin-top: 60px;
+}
+.blog1 h1
+{
+	font-size: 60px;
+	margin-top: 15px; 
+}
+.blog1 h2
+{
+	font-size: 30px;
+	font-weight: 300;
+	color: #808080;
+	margin-top: 15px; 
+}
+hr
+{
+	color: #808080;
+	margin-top: 170px;
+}
+.blog2
+{
+	width: 80%;
+	height: 1000px;
+	margin-left: 10%;
+	/*background: red;*/
+	margin-top: 30px;  
+}
+
+.blog2 p
+{
+	font-size: 30px;
+	color: #808080;
+	font-weight: 700;
+	margin-top: 60px;
+}
+.blog2 h1
+{
+	font-size: 60px;
+	margin-top: 15px; 
+}
+.blog2 h2
+{
+	font-size: 30px;
+	font-weight: 300;
+	color: #808080;
+	margin-top: 15px; 
+}
+hr
+{
+	color: #808080;
+	margin-top: 30px;
+}
+.blog3
+{
+	width: 80%;
+	height: 900px;
+	margin-left: 10%;
+	/*background: red;*/
+	margin-top: 30px;  
+}
+
+.blog3 p
+{
+	font-size: 30px;
+	color: #808080;
+	font-weight: 700;
+	margin-top: 60px;
+}
+.blog3 h1
+{
+	font-size: 60px;
+	margin-top: 15px; 
+}
+.blog3 h2
+{
+	font-size: 30px;
+	font-weight: 300;
+	color: #808080;
+	margin-top: 15px; 
+}
+hr
+{
+	color: #808080;
+	margin-top: 30px;
+}
+footer
+{
+	background: #595959;
+	width: 100%;
+	height: 210px;
+	margin-top: 60px;
+}
+.konec
+{
+	width: 80%;
+	margin-left: 10%;
+	height: 210px;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	display: flex;
+}
+#ti
+{
+	width: 550px;
+	height: 210px;
+	float: left; 
+}
+#o
+{
+	font-size: 25px;
+	padding-top: 25px;
+}
+.konec h1
+{
+	font-size: 40px;
+	margin-top: 20px;
+}
+.konec h1 span
+{
+	color: #E11414;
+}
+#lo
+{
+	font-size: 14px;
+	margin-top:20px;
+	color: white; 
+}
+.ty
+{
+	width: 500px;
+	height: 210px;
+}
+#uy
+{
+	text-align: center;
+	font-size: 36px;
+	padding-top: 40px;
+
+}
+.ty i
+{
+	margin: 35px 0 0 150px;
+	font-size: 40px;
+	color: white;
+}
+#inst
+{
+ margin-left: 55px;
+}
+#twit
+{
+ margin-left: 40px;
+ margin-top: 42px;
+}
+.re
+{
+	width: 472px;
+	height: 210px;
+	display: flex;
+	font-family: 'Roboto', sans-serif;
+}
+#phone
+{
+	font-size: 40px;
+	margin: 85px 0 0 170px; 
+}
+.re 
+{
+	font-size: 30px;
+}
+.re p
+{
+	margin: 55px 0 0 40px;
+}

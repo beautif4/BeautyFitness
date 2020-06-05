@@ -1,0 +1,351 @@
+*{margin: 0;padding: 0; outline: none;}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;0,900;1,300;1,700&display=swap');
+header
+{
+	width: 	100%;
+	height: 100vh;
+	background: url("img/1.jpg") /*center center*/ no-repeat;
+	background-size:cover;
+	text-decoration-style: none;
+	/*font-family: 'Raleway', sans-serif;	*/
+}
+body
+{
+	font-family: 'Roboto', sans-serif;
+}
+nav
+{
+	width: 	100%;
+	height: 130px;
+	margin: auto;
+	background: black;
+	background-color: rgba(0, 0, 0, 0.7)
+}
+#box1
+{
+	width: 80%;
+	height: 135px;
+	margin-left: 10%;
+}
+#box1 span
+{
+	color: #D22C2C;
+}
+nav h1
+{
+	padding-top:40px;
+	float: 	left;
+	font-size: 40px;
+	color: #dcdcdc;	 		
+}
+menu
+{
+	float: 	right;
+}
+menu ul li
+{
+	display: inline-block;
+	font-size: 20px;
+	padding-right: 55px;
+	padding-top: 55px;
+	color: #dcdcdc;
+	font-weight: 700;	
+}
+.active
+{
+	color: #D22C2C
+}
+menu ul li:hover
+{
+	color: #D22C2C;
+	transition: 0.5s;
+}
+#loca
+{
+	padding-right: 0px;
+}
+#box2
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 72px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: white;
+	text-align: center;
+	padding-top: 250px;
+	text-shadow: 2px 2px 2px black;
+}
+#box3 button
+{
+	width: 220px;
+	height: 60px;
+	background: black;
+	color: white;
+	font-size: 25px;
+	border-radius: 30px;
+	border-style: none;
+	margin-left:830px;	 	
+	margin-top:50px;	 	
+}
+#box3 button:hover
+{
+	cursor: pointer;
+}
+.health
+{
+	width: 80%;
+	height: 700px;
+	/*background: red;*/
+	margin-left: 10%;
+	margin-top: 150px;
+}
+#box4
+{
+	width: 45%;
+	height: 670px;
+	font-family: 'Raleway', sans-serif;
+	float: left;
+	margin-top: 10px;  
+}
+#box4 h1
+{
+	font-size: 50px;
+	padding-bottom: 30px;
+}
+#box4 span
+{
+	font-size: 19px;
+	text-align: justify;
+}
+#img2
+{
+	float: right;
+	border-radius: 15px;
+}
+.fc
+{
+	font-family: 'Raleway', sans-serif;
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 100px;
+	display: ;		
+}
+.boxes
+{
+	display: flex;
+	margin-top: 50px;
+}
+#fc
+{
+	height: 70px;
+}
+.fc h1
+{
+	font-size: 50px;
+	float: left;
+}
+.fc a p
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 35px;
+	float: right;
+	color:#ff0000;
+	padding-top: 7px;
+	text-decoration: underline;
+	padding-right: 30px; 
+}
+#aero
+{
+ margin-top: 25px;
+ width:450px;
+ height: 400px;
+ /*background:red;			*/
+}
+#aero img
+{
+	border-radius: 10px;
+}
+#aero h1
+{
+	font-size: 53px;
+	text-align: center;
+	margin-left: 115px; 
+}
+#aero p
+{
+	margin: 15px 120px 0 0px;
+	font-size: 	30px;
+	color: red;
+	text-decoration: underline;
+}
+#bodypum
+{
+ margin-top: 25px;
+ width:450px;
+ height: 400px;
+ margin-left: 100px; 
+ /*background:red;			*/
+}
+#bodypum img
+{
+	border-radius: 10px;
+}
+#bodypum h1
+{
+	font-size: 53px;
+	text-align: center;
+	margin-left: 105px; 
+}
+#bodypum p
+{
+	margin: 15px 113px 0 0px;
+	font-size: 	30px;
+	color: red;
+	text-decoration: underline;
+}
+#cross
+{
+ margin-top: 25px;
+ width:450px;
+ height: 400px;
+ margin-left: 100px; 
+ /*background:red;			*/
+}
+#cross img
+{
+	border-radius: 10px;
+}
+#cross h1
+{
+	font-size: 53px;
+	text-align: center;
+	margin-left: 123px; 
+}
+#cross p
+{
+	margin: 15px 120px 0 0px;
+	font-size: 	30px;
+	color: red;
+	text-decoration: underline;
+}
+.about
+{
+	width: 80%;
+	height: 700px;
+	/*background: red;*/
+	margin-left: 10%;
+	margin-top: 80px;
+}
+#box6
+{
+	width: 45%;
+	height: 670px;
+	font-family: 'Raleway', sans-serif;
+	float: right;
+	margin-top: 50px;  
+}
+#box6 h1
+{
+	font-size: 50px;
+	padding-bottom: 30px;
+	text-align: /*center*/;
+}
+#box6 span
+{
+	font-size: 19px;
+	text-align: justify;
+}
+#img3
+{
+	float: left;
+	border-radius: 15px;
+}
+footer
+{
+	background: #595959;
+	width: 100%;
+	height: 210px;
+	margin-top: 60px;
+}
+.konec
+{
+	width: 80%;
+	margin-left: 10%;
+	height: 210px;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	display: flex;
+}
+#ti
+{
+	width: 550px;
+	height: 210px;
+	float: left; 
+}
+#o
+{
+	font-size: 25px;
+	padding-top: 25px;
+}
+.konec h1
+{
+	font-size: 40px;
+	margin-top: 20px;
+}
+.konec h1 span
+{
+	color: #E11414;
+}
+#lo
+{
+	font-size: 14px;
+	margin-top:20px;
+	color: white; 
+}
+.ty
+{
+	width: 500px;
+	height: 210px;
+}
+#uy
+{
+	text-align: center;
+	font-size: 36px;
+	padding-top: 40px;
+
+}
+.ty i
+{
+	margin: 35px 0 0 150px;
+	font-size: 40px;
+	color: white;
+}
+#inst
+{
+ margin-left: 55px;
+}
+#twit
+{
+ margin-left: 40px;
+ margin-top: 42px;
+}
+.re
+{
+	width: 472px;
+	height: 210px;
+	display: flex;
+	font-family: 'Roboto', sans-serif;
+}
+#phone
+{
+	font-size: 40px;
+	margin: 85px 0 0 170px; 
+}
+.re 
+{
+	font-size: 30px;
+}
+.re p
+{
+	margin: 55px 0 0 40px;
+}
