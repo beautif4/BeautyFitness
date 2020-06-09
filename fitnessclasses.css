@@ -97,7 +97,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: center;
+	text-align: justify;
 
 }
 .aerobics img
@@ -108,7 +108,8 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px; 
+	margin-bottom: 15px;
+	text-align: center; 
 }
 .aerobics p
 {
