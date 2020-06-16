@@ -450,14 +450,12 @@ menu ul li
 	font-size: 20px;
 	padding-bottom: 20px;
 }
-.health img{width: 100%;}
-#aero img{display: none;}
-#aero{display: none;}
-#bodypum{display: none;}
-#bodypum img{display: none;}
-#cross{display: none;}
-#cross img{display: none;}
-
+.boxes{
+	display: none;
+}
+#img2{
+	width: 100%; 
+}
 #boxes
 {
 	display: none;
