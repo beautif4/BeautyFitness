@@ -4,7 +4,7 @@ header
 {
 	width: 	100%;
 	height: 100vh;
-	background: url("img/1.jpg") /*center center*/ no-repeat;
+	background: url("img/1.jpg") center center no-repeat;
 	background-size:cover;
 	text-decoration-style: none;
 	/*font-family: 'Raleway', sans-serif;	*/
@@ -266,6 +266,7 @@ footer
 	width: 100%;
 	height: 210px;
 	margin-top: 60px;
+	float: left;
 }
 .konec
 {
@@ -348,4 +349,201 @@ footer
 .re p
 {
 	margin: 55px 0 0 40px;
+}
+#mobmenu{display: none}
+@media (max-width:500px) {
+	header
+	{
+        width: 	100%;
+	    height: 100vh;
+	    background: url("img/1.jpg") no-repeat;
+	    background-size:cover;
+	    text-decoration-style: none;
+	}
+	footer
+    {
+	    background: #595959;
+	    width: 100%;
+	    height: 210px;
+	    margin-top: 60px;
+    }
+    nav h1{font-size: 1em; margin-top: -4%;}
+    #menu{display: none; }
+
+menu
+{
+	clear: both;
+	margin: auto;
+	position: absolute;
+	left:0;
+	top:70px;
+	z-index: 2;
+	width: 100%;
+	background: rgba(0,0,0,0.9);
+	text-align: center;	
+}
+
+menu ul li
+{
+	width: 100%;
+	font-size: 20px;
+	padding: 20px 0;
+	color: #dcdcdc;
+	font-weight: 700;	
+}
+    #mobmenu{
+    display: block;
+    width: 50px; 
+    height: 50px;
+    position: absolute;
+    z-index: 9;
+    right: 3%; 
+    top: 3.5%;
+    color: white;
+    }
+    nav {
+    	height: 70px;
+    }
+    #box2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+    padding-top: 120px;
+    text-shadow: 2px 2px 2px black;
+    }
+
+    header  #box3 button {
+    width: 220px;
+    height: 60px;
+    background: black;
+    color: white;
+    font-size: 25px;
+    border-radius: 30px;
+    border-style: none;
+    margin-left: 21%;
+    margin-top: 50px;
+    }
+
+
+    .health
+    {
+	width: 80%;
+	height: auto;
+	margin: auto;
+	/*background: red;*/
+	/*margin-left: 10%;*/
+	margin-top: 70px;
+    }
+#box4
+{
+	width: 100%;
+	height: auto;
+	font-family: 'Raleway', sans-serif;
+	float: left;
+	margin-top: 10px;  
+}
+#box4 h1
+{
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+.health img{width: 100%;}
+#aero img{display: none;}
+#aero{display: none;}
+#bodypum{display: none;}
+#bodypum img{display: none;}
+#cross{display: none;}
+#cross img{display: none;}
+
+#boxes
+{
+	display: none;
+}
+#fc h1
+{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	margin-top: 10%;
+	font-size: 28px;
+}
+#fc a p
+{
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	float: left;
+	color:#ff0000;
+	padding-top: 10px;
+	text-decoration: underline;
+	padding-left: 10px;
+}
+#box6
+{
+	width: 90%;
+	height: auto;
+	font-family: 'Raleway', sans-serif;
+	float: left;
+	margin-top: 50px;  
+}
+#box6 h1
+{
+	font-size: 30px;
+	padding-bottom: 20px;
+	text-align: /*center*/;
+}
+#box6 span
+{
+	font-size: 16px;
+	text-align: justify;
+}
+#img3
+{
+	float: left;
+	border-radius: 15px;
+}
+#img3
+{
+	display: none;
+}
+footer
+{
+	height: 500px;
+}
+.konec
+{
+	flex-direction: column;
+	margin-left: 15%;
+}
+#uy
+{
+	margin-top: 30px;
+	padding: 0;
+	text-align: left;
+}
+.ty i
+{
+	margin: 0px;
+}
+.ty
+{
+	margin-left: 50px;
+}
+.re
+{
+	margin: 0;
+	padding: 0;
+	text-align: none;
+}
+#phone
+{
+	margin: 0;
+	margin-top: 75px; 
+}
+#img2
+{
+    margin-top: 8.5%;
+}
 }

@@ -97,7 +97,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 
 }
 .aerobics img
@@ -108,8 +108,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center; 
+	margin-bottom: 15px; 
 }
 .aerobics p
 {
@@ -120,7 +119,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 	margin-left: 100px
 }
 .bodypum img
@@ -131,8 +130,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center;  
+	margin-bottom: 15px; 
 }
 .bodypum p
 {
@@ -143,7 +141,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 	margin-left: 100px;
 }
 .crossfit img
@@ -154,8 +152,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center;  
+	margin-bottom: 15px; 
 }
 .crossfit p
 {
@@ -175,7 +172,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 }
 .dancercise img
 {
@@ -185,8 +182,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center; 
+	margin-bottom: 15px; 
 }
 .dancercise p
 {
@@ -197,7 +193,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 	margin-left: 100px
 }
 .extend img
@@ -208,8 +204,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center;  
+	margin-bottom: 15px; 
 }
 .extend p
 {
@@ -220,7 +215,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 	margin-left: 100px;
 }
 .fusion img
@@ -231,8 +226,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center;  
+	margin-bottom: 15px; 
 }
 .fusion p
 {
@@ -252,7 +246,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 }
 .gymnastics img
 {
@@ -262,8 +256,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center;  
+	margin-bottom: 15px; 
 }
 .gymnastics p
 {
@@ -274,7 +267,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 	margin-left: 100px
 }
 .hiit img
@@ -285,8 +278,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center;  
+	margin-bottom: 15px; 
 }
 .hiit p
 {
@@ -297,7 +289,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 	margin-left: 100px;
 }
 .insanity img
@@ -308,8 +300,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center;  
+	margin-bottom: 15px; 
 }
 .insanity p
 {
@@ -329,7 +320,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 }
 .jumping img
 {
@@ -339,8 +330,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center; 
+	margin-bottom: 15px; 
 }
 .jumping p
 {
@@ -351,7 +341,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 	margin-left: 100px
 }
 .kickboxercise img
@@ -362,8 +352,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center; 
+	margin-bottom: 15px; 
 }
 .kickboxercise p
 {
@@ -374,7 +363,7 @@ menu ul li:hover
 	width: 445px;
 	height: 580px;
 	/*background: red;*/
-	text-align: justify;
+	text-align: center;
 	margin-left: 100px;
 }
 .metcon img
@@ -385,8 +374,7 @@ menu ul li:hover
 {
 	font-size: 53px;
 	margin-top: 10px;
-	margin-bottom: 15px;
-	text-align: center; 
+	margin-bottom: 15px; 
 }
 .metcon p
 {
